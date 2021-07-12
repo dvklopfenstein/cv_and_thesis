@@ -1,4 +1,4 @@
-# Curriculum vitae and PhD thesis of D. V. Klopfenstein
+# Curriculum Vitae and PhD thesis of D. V. Klopfenstein
 
 ## [PhD thesis](doc/PhD_Thesis.pdf) (Graduated on June 11, 2021):
 * [One-page Curriculum Vita](doc/PhD_Vita.pdf), as required by Drexel for PhD theses

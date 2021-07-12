@@ -7,7 +7,7 @@
   * [My contributions](doc/goatools_stargazers_dvk.pdf)
 * How my 3 peer-reviewed papers fit into the thesis chapters
   * [Appendix_A](doc/PhD_Appendix_A_papers.pdf) 
-  * [flow diagram](doc/PhD_Appendix_A_papers_image.pdf)
+  * [Flow diagram](doc/PhD_Appendix_A_papers_image.pdf)
 * My open-source projects associated with the 3 peer-reviewed papers:
   * https://github.com/tanghaibao/goatools
   * https://github.com/dvklopfenstein/goatools_simulation

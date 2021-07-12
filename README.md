@@ -1,10 +1,10 @@
 # Curriculum vitae and PhD thesis of D. V. Klopfenstein
 
 ## [PhD thesis](doc/PhD_Thesis.pdf) (Graduated on June 11, 2021):
-* My [one-page Curriculum Vita](doc/PhD_Vita.pdf), as required by the Drexel PhD thesis manual
+* [One-page Curriculum Vita](doc/PhD_Vita.pdf), as required by the Drexel PhD thesis manual
 * The GOATOOLS open-source project is one of the top 1% of bioinformatics tools in the world ([Appendix B](doc/PhD_Appendix_B_GOA_TOOLS.pdf) and [my contributions](doc/goatools_stargazers_dvk.pdf)) 
-* How my 3 peer-reviewed papers fit into my thesis chapters ([Appendix_A](doc/PhD_Appendix_A_papers.pdf) and [flow diagram](doc/PhD_Appendix_A_papers_image.pdf))
-* My open-source projects associated with my peer-reviewed PhD papers:
+* How my 3 peer-reviewed papers fit into the thesis chapters ([Appendix_A](doc/PhD_Appendix_A_papers.pdf) and [flow diagram](doc/PhD_Appendix_A_papers_image.pdf))
+* My open-source projects associated with the 3 peer-reviewed papers:
   * https://github.com/tanghaibao/goatools
   * https://github.com/dvklopfenstein/goatools_simulation
   * https://github.com/dvklopfenstein/pmidcite

@@ -1,7 +1,7 @@
 ## **The amount of researcher interest in GOA TOOLs rose rapidly following the creation of commits by D. V. Klopfenstein starting in 2016.**    
 ![my contributions and researcher approval](goatools_stargazers_dvk.png)
 
-The vertical dotted lines divide all 3 panels in the figure into three time periods.
+The vertical dotted lines in 2016 and August 2018 divide all 3 panels in the figure into three time periods.
 
 ### The top panel shows the rate of interest of researchers in GOA TOOLs.
 The top panel shows the rate of interest of researchers (number of GitHub stars awarded per 100 days) in GOA TOOLs for 3 distinct time periods:

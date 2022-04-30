@@ -1,4 +1,4 @@
-# The amount of researcher interest in GOA TOOLs rose rapidly following the creation of commits by D. V. Klopfenstein starting in 2016.
+# The amount of researcher interest in GOA TOOLs rose rapidly following the code contributions D. V. Klopfenstein starting in 2016.
 ![my contributions and researcher approval](goatools_stargazers_dvk.png)
 
 The *x*-axis at the bottom is time in months and years and is shared by all panels.

@@ -7,7 +7,7 @@
 * [One-page Curriculum Vita](doc/PhD_thesis/PhD_Vita.pdf), as required by Drexel for PhD theses
 * The GOATOOLS open-source project is one of the top 1% of bioinformatics tools in the world:
   * [My contributions to the GOA TOOLs open-source project](doc/PhD_thesis/goatools_stargazers_dvk.pdf)
-  * [Appendix B](doc/PhD_thesis/PhD_Appendix_B_GOA_TOOLS.pdf) 
+  * [Appendix B](doc/PhD_thesis/PhD_Appendix_B_GOA_TOOLS.pdf) and [**figure**](/doc/PhD_thesis/goatools_stargazers_fig.md)
 * How my 3 peer-reviewed papers fit into the thesis chapters:
   * [Appendix_A](doc/PhD_thesis/PhD_Appendix_A_papers.pdf) 
   * [Flow diagram: papers and thesis](doc/PhD_thesis/PhD_Appendix_A_papers_image.pdf)

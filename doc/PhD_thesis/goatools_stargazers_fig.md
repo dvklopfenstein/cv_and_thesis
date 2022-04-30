@@ -2,7 +2,7 @@
 ![my contributions and researcher approval](goatools_stargazers_dvk.png)
 
 The *x*-axis at the bottom is time in months and years and is shared by all panels.
-The vertical dotted lines at January 2016 (U) and August 2018 (v) divide all 3 panels ([**top**](#the-top-panel-shows-the-rate-of-interest-of-researchers-in-goa-tools), [**middle**](#the-middle-panel-shows-researcher-interest-rising-rapidly-starting-in-2016), and [**bottom**](#the-bottom-panel-shows-new-features-contributed-to-goa-tools-by-principal-lead-d-v-klopfenstein) in the figure into three time periods.
+The vertical dotted lines at January 2016 (U) and August 2018 (v) divide all 3 panels ([**top**](#the-top-panel-shows-the-rate-of-interest-of-researchers-in-goa-tools), [**middle**](#the-middle-panel-shows-researcher-interest-rising-rapidly-starting-in-2016), and [**bottom**](#the-bottom-panel-shows-new-features-contributed-to-goa-tools-by-principal-lead-d-v-klopfenstein)) in the figure into three time periods.
 
 ## [The top panel shows the rate of interest of researchers in GOA TOOLs](#the-amount-of-researcher-interest-in-goa-tools-rose-rapidly-following-the-creation-of-commits-by-d-v-klopfenstein-starting-in-2016)
 The top panel shows the rate of interest of researchers (number of GitHub stars awarded per 100 days) in GOA TOOLs for 3 distinct time periods:
